@@ -128,7 +128,6 @@ namespace WinFormsApp2
                         {
                             //A comma is added as a text delimiter in order
                             //to separate each field in the text file.
-                            //You can choose another character as a delimiter.
                             sLine = sLine + ",";
                         }
                     }
